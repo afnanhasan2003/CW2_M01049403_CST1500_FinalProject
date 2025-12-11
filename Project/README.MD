@@ -39,5 +39,5 @@ social-analytics-dashboard/
 ### Local Development
 1. **Clone the repository**
    ```bash
-   git clone (github link here)
+   git clone https://github.com/afnanhasan2003/CW2_M01049403_CST1500_FinalProject
    cd social-analytics-dashboard
